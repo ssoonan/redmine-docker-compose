@@ -25,6 +25,7 @@ rake redmine:plugins:migrate RAILS_ENV=production
 - if themes : just clone the project into themes dir
 
 ## TODO
+- [ ] certbot-auto update issue
 - [ ] certbot crontab in docker-compose
 - [ ] improve security f nginx config
 - [ ] email setup
